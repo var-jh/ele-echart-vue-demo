@@ -1,6 +1,6 @@
 <template>
     <div class="sss">
-        
+        测试开发
     </div>
 </template>
 
@@ -15,5 +15,9 @@
     width: 100%;
     height: 30px;
     /* background: hotpink; */
+    text-align: center;
+    background: #666;
+    color: aqua;
+    
 }
 </style>
