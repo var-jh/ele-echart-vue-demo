@@ -38,10 +38,13 @@
 
             <hr>
            
-		
-            <iframe :src="'https://view.officeapps.live.com/op/view.aspx?src='+exUrl" width='100%' height='500' frameborder='1' >
+
+            <!-- 竟然支持 -->
+            <iframe :src="'https://view.officeapps.live.com/op/view.aspx?src='+xuqiu" width='100%' height='500' frameborder='1' >
 
             </iframe>
+
+
         </code>
     </div>
 </template>
@@ -61,7 +64,7 @@ import mdContract from "./pdfzi";
                 
                 sss:'./excel-list.xlsx',
                 url:'../../../static/pdf/web/解忧杂货店.pdf',
-                xuqiu:'D:/GS/jiqiao/element/project-name/src/components/pdf/档案文件.xls',
+                xuqiu:'http://video.ch9.ms/build/2011/slides/TOOL-532T_Sutter.pptx',
 
 
                 contractVisable: false,

@@ -107,7 +107,7 @@
 
         },
         created(){
-            // this.onclick('top');
+            this.onclick('top');
         },
 
         // watch(){
