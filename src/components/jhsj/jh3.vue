@@ -12,7 +12,7 @@
         </div>
 
         <div v-else :style="quan">
-            您的权限不够。
+            您的权限不够请获取权限。
         </div>
 
 
